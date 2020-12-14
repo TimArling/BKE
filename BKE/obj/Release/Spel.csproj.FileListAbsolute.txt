@@ -1,0 +1,6 @@
+D:\Projects\Repos\BKE\bin\Release\BKE.exe.config
+D:\Projects\Repos\BKE\bin\Release\BKE.exe
+D:\Projects\Repos\BKE\bin\Release\BKE.pdb
+D:\Projects\Repos\BKE\obj\Release\Spel.csproj.CoreCompileInputs.cache
+D:\Projects\Repos\BKE\obj\Release\BKE.exe
+D:\Projects\Repos\BKE\obj\Release\BKE.pdb

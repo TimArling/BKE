@@ -1,0 +1,7 @@
+D:\Projects\Repos\BKE\bin\Debug\BKE.exe.config
+D:\Projects\Repos\BKE\bin\Debug\BKE.exe
+D:\Projects\Repos\BKE\bin\Debug\BKE.pdb
+D:\Projects\Repos\BKE\obj\Debug\Spel.csprojAssemblyReference.cache
+D:\Projects\Repos\BKE\obj\Debug\Spel.csproj.CoreCompileInputs.cache
+D:\Projects\Repos\BKE\obj\Debug\BKE.exe
+D:\Projects\Repos\BKE\obj\Debug\BKE.pdb
